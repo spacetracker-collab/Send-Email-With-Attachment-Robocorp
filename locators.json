@@ -1,0 +1,14 @@
+{
+    "chat-label": {
+        "confidence": 80.0,
+        "path": ".images\\chatlabel-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "mail": {
+        "confidence": 80.0,
+        "path": ".images\\mail-path.png",
+        "source": null,
+        "type": "image"
+    }
+}
